@@ -10,6 +10,6 @@ Mostly, this repo will only include the RMarkdown file I use at school.
 To be able to download and read the code on your computer, R and Rstudio is required.
 
 ## Visuals
-![alt](https://github.com/Janicenice/janice/blob/README-edit/2.png)
+![alt](https://github.com/Janicenice/janice/blob/master/1.png)
 
-![alt](https://github.com/Janicenice/janice/blob/README-edit/1.png)
+![alt](https://github.com/Janicenice/janice/blob/master/2.png)
