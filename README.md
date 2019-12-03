@@ -11,4 +11,5 @@ To be able to download and read the code on your computer, R and Rstudio is requ
 
 ## Visuals
 https://github.com/Janicenice/janice/blob/README-edit/Screen%20Shot%202019-12-03%20at%2012.04.02%20PM.png
+
 https://github.com/Janicenice/janice/blob/README-edit/Screen%20Shot%202019-12-03%20at%2012.03.56%20PM.png
